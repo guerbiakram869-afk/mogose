@@ -1,0 +1,17 @@
+{
+  "name": "mangoose-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Mongoose CRUD demo maintained by Akram",
+  "main": "mangoose.js",
+  "scripts": {
+    "start": "node mangoose.js",
+    "lint": "echo \"No lint configured\""
+  },
+  "author": "Akram",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.4.1"
+  }
+}
